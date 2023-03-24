@@ -1,0 +1,2 @@
+ON_TIME=5
+OFF_TIME=10
